@@ -1,0 +1,2 @@
+this is my static file in blog
+<img src="5.jpg">
